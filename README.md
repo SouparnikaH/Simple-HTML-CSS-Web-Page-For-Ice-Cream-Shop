@@ -1,1 +1,2 @@
 # Simple-HTML-CSS-Web-Page-For-Ice-Cream-Shop
+I developed a simple web page for an ice cream shop using HTML and CSS. The web page consists of modules such as Home, Flavours, About, and Contact Us. To enhance user experience, I implemented smooth scrolling behavior in CSS, which allows for a seamless transition between sections on the same page. This project demonstrates my ability to create a clean and functional layout while incorporating user-friendly features.
